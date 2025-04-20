@@ -13,6 +13,8 @@ Dr. William Lowe
 Name of the practice partner
 Indian Society of AI and Law
 
+Data folder: https://drive.google.com/drive/folders/1Oig9P4DYwXggJQEAI_JwCv1RH-ddEMbr?usp=sharing
+
 Student’s name, study programme and year of graduation
 Shruti Kakade
 
