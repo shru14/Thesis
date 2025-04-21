@@ -19,7 +19,10 @@ Indian Society of AI and Law
 Student’s name, study programme and year of graduation
 
 Shruti Kakade
-Matriculation Number 233146
+
+Matriculation Number 
+
+233146
 
 Got accepted at the Data for Policy Conference 2025. 
 https://dataforpolicy.org/data-for-policy-2025-europe/
