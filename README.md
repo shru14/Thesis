@@ -17,6 +17,7 @@ Indian Society of AI and Law
 
 
 Student’s name, study programme and year of graduation
+
 Shruti Kakade
 Matriculation Number 233146
 
